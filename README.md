@@ -2,11 +2,11 @@
 Panache
 # A Fashion Recommendation System
 CMPE 256 Project Proposal
-By
-Team 8
-Reshma Krishnakumar Parakkal (015326454)
-Shiyon Kurian (015351297)
-Sparsha Ramakrishna (015274571)
+-By
+-Team 8
+-Reshma Krishnakumar Parakkal (015326454)
+-Shiyon Kurian (015351297)
+-Sparsha Ramakrishna (015274571)
 Project Advisor
 Professor Gheorghi Guzun
 Date: 04/05/2022
