@@ -2,19 +2,19 @@
 Panache
 # A Fashion Recommendation System
 CMPE 256 Project Proposal
-# By
-# Team 8
+By
+Team 8
 Reshma Krishnakumar Parakkal (015326454)
 Shiyon Kurian (015351297)
 Sparsha Ramakrishna (015274571)
 Project Advisor
-# Professor Gheorghi Guzun
-# Date: 04/05/2022
+Professor Gheorghi Guzun
+Date: 04/05/2022
 # Project Goal:
 This project intends to create a visual image-based recommendation system for e-commerce platforms in order to deliver a personal and unique fashion experience. The project uses Reverse Image Search, which is extensively utilized in e-commerce websites like Amazon, Shein, and Pinterest.
 # Dataset Requirements:
 Kaggle provided the data for this project. Each product is given a unique identifier. It contains properties such as gender, classification, style, color and seasonality, which offer a description of the product and help classify it for feature recognition. The dataset is 593 megabytes in size.
-# Dataset link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+Dataset link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 # Methods and Algorithms:
 Deep learning methods will be used to build the Recommender System. For evaluating visual information, the Convolutional Neural Network (CNN) is a common choice. We mostly employ Convolutional Neural Network (CNN) and Transfer Learning for feature extraction. Convolutional neural networks are made up of many layers of artificial neurons. The picture is put into multiple layers, each of which serves a particular purpose. The very first layer searches for rudimentary characteristics. The layers search for more complicated traits as they go. Each picture's retrieved features are then given to the ResNet model, which creates a collection of features for every picture. The Nearest Neighbors method, which is used in pattern classification and data mining, is used to identify the best product suggestions.
 # Proposal Planning:
